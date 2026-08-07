@@ -2,20 +2,20 @@
 
 Welcome to the **CBSE Class 10 Information Technology (402)** Notes.
 
-Choose a unit below to start learning.
+---
+
+## 📌 How to Use
+
+1. Tap the **☰ Menu** button at the **bottom-left**.
+2. Select any chapter.
+3. Read the notes.
+4. Use the **☰ Menu** again anytime to switch chapters.
 
 ---
 
-# 📖 Section A – Employability Skills
-
-### Unit 1
-👉 [Communication Skills](#/a1-communication-skills)
-
-### Unit 2
-👉 [Self-Management Skills](#/a2-self-management-skills)
-
-### Unit 3
-👉 [ICT Skills](#/a3-ict-skills)
+> **Happy Learning! 📚**
+>
+> **National Classes, Kanhauli, Vaishali**a3-ict-skills)
 
 ### Unit 4
 👉 [Entrepreneurial Skills](#/a4-entrepreneurial-skills)
